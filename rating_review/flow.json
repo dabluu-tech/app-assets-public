@@ -1,0 +1,270 @@
+{
+  "version":"1.0.0",
+"pages":{
+  "neg_review_start": {
+    "backAction": {
+      "action": "pop"
+    },
+    "elements": {
+      "unable_to_access": {
+        "text": "unable_to_access",
+        "subText":"unable_to_access_sub_text",
+        "next": {
+          "action": "next",
+          "page": "notAbleToChargeUnableToAccess"
+        }
+      },
+      "unable_to_charge": {
+        "text": "unable_to_charge",
+        "subText":"unable_to_charge_sub_text",
+        "next": {
+          "action": "next",
+          "page": "notAbleToChargeUnableToCharge"
+        }
+      },
+      "issues_while_charging": {
+        "text": "issues_while_charging",
+        "subText":"issues_while_charging_sub_text",
+        "next": {
+          "action": "next",
+          "page": "notAbleToChargeIssuesWhileCharging"
+        }
+      },
+      "others_stage_nac_1": {
+        "text": "others_stage_nac_1",
+        "subText":"others_stage_nac_1_sub_text",
+        "next": {
+          "action": "submit_with_text"
+        }
+      }
+    }
+  },
+  "notAbleToChargeUnableToAccess": {
+    "backAction": {
+      "action": "prev",
+      "page": "neg_review_start"
+    },
+    "elements": {
+      "station_not_open": {
+        "text": "station_not_open",
+        "subText":"station_not_open_sub_text",
+        "next": {
+          "action": "submit_with_text"
+        }
+      },
+      "station_not_present": {
+        "text": "station_not_present",
+        "subText":"station_not_present_sub_text",
+        "next": {
+          "action": "submit_with_text"
+        }
+      },
+      "station_under_maintenance": {
+        "text": "station_under_maintenance",
+        "subText":"station_under_maintenance_sub_text",
+        "next": {
+          "action": "submit_with_text"
+        }
+      },
+      "private_charging_station": {
+        "text": "private_charging_station",
+        "subText":"private_charging_station_sub_text",
+        "next": {
+          "action": "submit_with_text"
+        }
+      },
+      "others_stage_nac_2": {
+        "text": "others_stage_nac_2",
+        "subText":"others_stage_nac_2_sub_text",
+        "next": {
+          "action": "submit_with_text"
+        }
+      }
+    }
+  },
+  "notAbleToChargeUnableToCharge": {
+    "backAction": {
+      "action": "prev",
+      "page": "neg_review_start"
+    },
+    "elements": {
+      "apps_not_working": {
+        "text": "apps_not_working",
+        "subText":"apps_not_working_sub_text",
+        "next": {
+          "action": "submit_with_text"
+        }
+      },
+      "no_power": {
+        "text": "no_power",
+        "subText":"no_power_sub_text",
+        "next": {
+          "action": "submit_with_text"
+        }
+      },
+      "charger_damaged": {
+        "text": "charger_damaged",
+        "subText":"charger_damaged_sub_text",
+        "next": {
+          "action": "submit_with_text"
+        }
+      },
+      "no_operator_available": {
+        "text": "no_operator_available",
+        "subText":"no_operator_available_sub_text",
+        "next": {
+          "action": "submit_with_text"
+        }
+      },
+      "others_stage_nac_3": {
+        "text": "others_stage_nac_3",
+        "subText":"others_stage_nac_3_sub_text",
+        "next": {
+          "action": "submit_with_text"
+        }
+      }
+    }
+  },
+  "notAbleToChargeIssuesWhileCharging": {
+    "backAction": {
+      "action": "prev",
+      "page": "neg_review_start"
+    },
+    "elements": {
+      "slow_charging": {
+        "text": "slow_charging",
+        "subText":"slow_charging_sub_text",
+        "next": {
+          "action": "submit_with_text"
+        }
+      },
+      "charging_stopped_in_middle": {
+        "text": "charging_stopped_in_middle",
+        "subText":"charging_stopped_in_middle_sub_text",
+        "next": {
+          "action": "submit_with_text"
+        }
+      },
+      "gun_got_locked": {
+        "text": "gun_got_locked",
+        "subText":"gun_got_locked_sub_text",
+        "next": {
+          "action": "submit_with_text"
+        }
+      },
+      "others_stage_nac_4": {
+        "text": "others_stage_nac_4",
+        "subText":"others_stage_nac_4_sub_text",
+        "next": {
+          "action": "submit_with_text"
+        }
+      }
+    }
+  },
+  "whatWentWrong": {
+    "backAction": {
+      "action": "clear_and_pop"
+    },
+    "elements": {
+      "no_amenities": {
+        "text": "no_amenities",
+        "subText":"no_amenities_sub_text",
+        "next": {
+          "action": "submit_with_text"
+        }
+      },
+      "no_covering_for_parking": {
+        "text": "no_covering_for_parking",
+        "subText":"no_covering_for_parking_sub_text",
+        "next": {
+          "action": "submit_with_text"
+        }
+      },
+      "no_lighting_at_station": {
+        "text": "no_lighting_at_station",
+        "subText":"no_lighting_at_station_sub_text",
+        "next": {
+          "action": "submit_with_text"
+        }
+      },
+      "others_what_went_wrong": {
+        "text": "others_what_went_wrong",
+        "subText":"others_what_went_wrong_sub_text",
+        "next": {
+          "action": "submit_with_text"
+        }
+      }
+    }
+  },
+  "whatCouldHaveBeenBetter": {
+    "backAction": {
+      "action": "clear_and_pop"
+    },
+    "elements": {
+      "amenities": {
+        "text": "amenities",
+        "subText":"amenities_sub_text",
+        "next": {
+          "action": "submit_with_text"
+        }
+      },
+      "need_more_chargers": {
+        "text": "need_more_chargers",
+        "subText":"need_more_chargers_sub_text",
+        "next": {
+          "action": "submit_with_text"
+        }
+      },
+      "access_road_could_be_better": {
+        "text": "access_road_could_be_better",
+        "subText":"access_road_could_be_better_sub_text",
+        "next": {
+          "action": "submit_with_text"
+        }
+      },
+      "others_what_could_have_been_better": {
+        "text": "others_what_could_have_been_better",
+        "subText":"others_what_could_have_been_better_sub_text",
+        "next": {
+          "action": "submit_with_text"
+        }
+      }
+    }
+  },
+  "whatYouLoved": {
+    "backAction": {
+      "action": "clear_and_pop"
+    },
+    "elements": {
+      "excellent_location": {
+        "text": "excellent_location",
+        "subText":"excellent_location_sub_text",
+        "next": {
+          "action": "submit_with_text"
+        }
+      },
+      "wonderful_amenities": {
+        "text": "wonderful_amenities",
+        "subText":"wonderful_amenities_sub_text",
+        "next": {
+          "action": "submit_with_text"
+        }
+      },
+      "super_helpful_operator": {
+        "text": "super_helpful_operator",
+        "subText":"super_helpful_operator_sub_text",
+        "next": {
+          "action": "submit_with_text"
+        }
+      },
+      "others_what_you_loved": {
+        "text": "others_what_you_loved",
+        "subText":"others_what_you_loved_sub_text",
+        "next": {
+          "action": "submit_with_text"
+        }
+      }
+    }
+  }
+}
+}
