@@ -199,5 +199,16 @@
 "caravan_main_socket":"Caravan Mains Socket",
 "gb_t":"GB/T",
 "gb_t_2":"GB/T 2",
-"nema_tt_30":"NEMA TT-30"
+"nema_tt_30":"NEMA TT-30",
+"open_camera":"Open camera",
+    "select_from_gallery":"Choose from gallery",
+    "selected_images":"Selected Images",
+    "flip":"Rotate",
+    "rotate_left":"Rotate left",
+    "rotate_right":"Rotate right",
+    "brightness":"Brightness",
+    "contrast":"Contrast",
+    "saturation":"Saturation",
+    "apply":"Apply changes",
+    "invalid_caption":"Invalid caption"
 }

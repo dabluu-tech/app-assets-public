@@ -198,5 +198,16 @@
   "caravan_main_socket": "कारवां मेन्स सॉकेट",
   "gb_t": "जीबी/टी",
   "gb_t_2": "जीबी/टी 2",
-  "nema_tt_30": "नेमा टीटी-30"
+  "nema_tt_30": "नेमा टीटी-30",
+  "open_camera": "कैमरा खोलो",
+  "select_from_gallery": "गैलरी से चयन करो",
+  "selected_images": "चयनित छवियां",
+  "flip": "घुमाएँ",
+  "rotate_left": "बायीं तरफ",
+  "rotate_right": "दाएं घुमाएं",
+  "brightness": "चमक",
+  "contrast": "अंतर",
+  "saturation": "परिपूर्णता",
+  "apply": "परिवर्तनों को लागू करें",
+  "invalid_caption": "अमान्य कैप्शन"
 }

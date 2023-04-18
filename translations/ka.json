@@ -198,5 +198,16 @@
     "caravan_main_socket": "ქარავანი მაგისტრალური სოკეტი",
     "gb_t": "GB/T",
     "gb_t_2": "GB/T 2",
-    "nema_tt_30": "NEMA TT-30"
+    "nema_tt_30": "NEMA TT-30",
+    "open_camera": "გახსენით კამერა",
+    "select_from_gallery": "აირჩიეთ გალერეიდან",
+    "selected_images": "არჩეული სურათები",
+    "flip": "როტაცია",
+    "rotate_left": "შეტრიალეთ მარცხნივ",
+    "rotate_right": "როტაცია მარჯვნივ",
+    "brightness": "სიკაშკაშე",
+    "contrast": "კონტრასტი",
+    "saturation": "გაჯერება",
+    "apply": "ცვლილებების გამოყენება",
+    "invalid_caption": "არასწორი წარწერა"
   }

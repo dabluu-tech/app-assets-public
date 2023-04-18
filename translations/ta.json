@@ -198,5 +198,16 @@
   "caravan_main_socket": "கேரவன் மெயின் சாக்கெட்",
   "gb_t": "ஜிபி/டி",
   "gb_t_2": "ஜிபி/டி 2",
-  "nema_tt_30": "NEMA TT-30"
+  "nema_tt_30": "NEMA TT-30",
+  "open_camera": "புகைப்படக்கருவியை திற",
+  "select_from_gallery": "கேலரியில் இருந்து தேர்வு செய்யவும்",
+  "selected_images": "தேர்ந்தெடுக்கப்பட்ட படங்கள்",
+  "flip": "சுழற்று",
+  "rotate_left": "இடப்புறம் சுழற்று",
+  "rotate_right": "வலதுபுறம் சுழற்று",
+  "brightness": "பிரகாசம்",
+  "contrast": "மாறுபாடு",
+  "saturation": "செறிவூட்டல்",
+  "apply": "மாற்றங்களைப் பயன்படுத்தவும்",
+  "invalid_caption": "தவறான தலைப்பு"
 }

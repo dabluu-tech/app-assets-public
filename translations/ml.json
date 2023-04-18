@@ -198,5 +198,16 @@
   "caravan_main_socket": "കാരവൻ മെയിൻ സോക്കറ്റ്",
   "gb_t": "GB/T",
   "gb_t_2": "GB/T 2",
-  "nema_tt_30": "NEMA TT-30"
+  "nema_tt_30": "NEMA TT-30",
+  "open_camera": "ക്യാമറ തുറക്കുക",
+  "select_from_gallery": "ഗാലറിയിൽ നിന്ന് തിരഞ്ഞെടുക്കുക",
+  "selected_images": "തിരഞ്ഞെടുത്ത ചിത്രങ്ങൾ",
+  "flip": "തിരിക്കുക",
+  "rotate_left": "ഇടത്തേക്ക് തിരിക്കുക",
+  "rotate_right": "വലത്തേക്ക് തിരിക്കുക",
+  "brightness": "തെളിച്ചം",
+  "contrast": "കോൺട്രാസ്റ്റ്",
+  "saturation": "സാച്ചുറേഷൻ",
+  "apply": "മാറ്റങ്ങൾ വരുത്തു",
+  "invalid_caption": "അസാധുവായ അടിക്കുറിപ്പ്"
 }

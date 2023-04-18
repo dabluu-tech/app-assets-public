@@ -198,5 +198,16 @@
   "caravan_main_socket": "కారవాన్ మెయిన్స్ సాకెట్",
   "gb_t": "GB/T",
   "gb_t_2": "GB/T 2",
-  "nema_tt_30": "NEMA TT-30"
+  "nema_tt_30": "NEMA TT-30",
+  "open_camera": "కెమెరా తెరువు",
+  "select_from_gallery": "గ్యాలరీ నుండి ఎంచుకోండి",
+  "selected_images": "ఎంచుకున్న చిత్రాలు",
+  "flip": "తిప్పండి",
+  "rotate_left": "ఎడమవైపు తిప్పండి",
+  "rotate_right": "కుడివైపు తిప్పండి",
+  "brightness": "ప్రకాశం",
+  "contrast": "విరుద్ధంగా",
+  "saturation": "సంతృప్తత",
+  "apply": "మార్పులను వర్తింపజేయండి",
+  "invalid_caption": "చెల్లని శీర్షిక"
 }
