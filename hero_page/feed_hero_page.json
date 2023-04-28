@@ -20,7 +20,9 @@
       "link_type": "web",
       "image_urls": {
         "en": "https://img.freepik.com/free-photo/word-english-with-globe-wooden-background_1357-127.jpg",
-        "ml": "https://img.freepik.com/free-photo/house-boat-river_1353-174.jpg?size=626&ext=jpg"
+        "ml": "https://img.freepik.com/free-photo/house-boat-river_1353-174.jpg?size=626&ext=jpg",
+        "hi":"https://ik.imagekit.io/khngv1vhi/tr:w-300,h-100/https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Hindi.svg/512px-Hindi.svg.png"
+        
       }
     }
   ]
