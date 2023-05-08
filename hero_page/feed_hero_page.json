@@ -5,25 +5,10 @@
       "nav_dest": "dashboard",
       "link_type": "local_ref",
       "image_urls": {
-        "en": "https://raw.githubusercontent.com/dabluu-tech/app-ui-image-assets-public/master/hero-ui-assets/en/find_charger_en.png"
-      }
-    },
-    {
-      "nav_dest": "https://dabluu.com",
-      "link_type": "web",
-      "image_urls": {
-        "en": "https://img.freepik.com/free-photo/electric-cars-parking-lot-charging_23-2148972405.jpg"
-      }
-    },
-     {
-      "nav_dest": "https://google.com",
-      "link_type": "web",
-      "image_urls": {
-        "en": "https://img.freepik.com/free-photo/word-english-with-globe-wooden-background_1357-127.jpg",
-        "ml": "https://img.freepik.com/free-photo/house-boat-river_1353-174.jpg?size=626&ext=jpg",
-        "hi":"https://ik.imagekit.io/khngv1vhi/tr:w-300,h-100/https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Hindi.svg/512px-Hindi.svg.png"
-        
+        "en": "https://conf.prod.dabluu.one/release_v1/hero-ui-assets/en/find_charger_en.png"
       }
     }
   ]
 }
+
+
